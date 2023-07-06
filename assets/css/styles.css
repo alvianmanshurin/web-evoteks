@@ -827,6 +827,14 @@ p.contact__card-description {
 }
 
 /*=============== FOOTER ===============*/
+.footer {
+  background-image: url('https://images.wallpaperscraft.com/image/single/city_night_city_coast_179489_3840x2160.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  padding-top: 2rem;
+  }
+
 .footer__container {
   row-gap: 2.5rem;
 }
